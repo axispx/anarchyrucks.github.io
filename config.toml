@@ -1,0 +1,30 @@
+baseURL = 'anarchyrucks.github.io'
+languageCode = 'en-us'
+title = 'Ashish'
+theme = 'axis'
+
+[params]
+  avatar_url = "https://avatars0.githubusercontent.com/u/8762472?s=290"
+
+[[params.bio]]
+para = "Hi, I'm Ashish. I'm a 0.01x developer playing accross the full stack."
+
+[[params.bio]]
+para = "I started this blog to put down my random thoughts in a more concrete format. I write about Software Engineering, Open Source Software, Programming Languages and Tech in general."
+
+[[params.social]]
+url = "https://github.com/anarchyrucks"
+fa_icon = "fab fa-github"
+
+[[params.social]]
+url = "https://twitter.com/anarchyrucks"
+fa_icon = "fab fa-twitter"
+
+[[params.social]]
+url = "mailto:anarchyrucks@gmail.com"
+fa_icon = "fas fa-envelope"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fas fa-rss"
+

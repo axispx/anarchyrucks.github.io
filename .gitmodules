@@ -1,0 +1,3 @@
+[submodule "themes/axis"]
+	path = themes/axis
+	url = https://github.com/anarchyrucks/axis
